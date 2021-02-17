@@ -1,0 +1,38 @@
+waiting for spring application to start at once
+Starting a Gradle Daemon, 4 stopped Daemons could not be reused, use --status for details
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+> Task :clean
+> Task :quizapp:clean UP-TO-DATE
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+> Task :quizapp:compileJava
+> Task :quizapp:processResources
+> Task :quizapp:classes
+waiting for spring application to start at once
+
+> Task :quizapp:bootRun
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.1.4.RELEASE)
+
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+waiting for spring application to start at once
+your quiz application server has started
+QuestionEntity(id=5fde09d75dcd48c50561dc15, questionId=002, title=Which of the following will not result in CompilationError?, description=Java question, type=objective-multiple, correctAnswer=[1, 3, 4], options={ "1" : "List a=new ArrayList<>();", "2" : "List b=new Collection<>();", "3" : "List c=new ArrayList();", "4" : "List<? extends Object> d=new ArrayList();" })
+post request HIT
+AllUserResponsesSubmitRequest(responses=[UserResponseOneQuestion(questionId=001, userResponse=[1]), UserResponseOneQuestion(questionId=002, userResponse=[1, 3, 4]), UserResponseOneQuestion(questionId=003, userResponse=[3, 4]), UserResponseOneQuestion(questionId=004, userResponse=[1, 3, 4]), UserResponseOneQuestion(questionId=005, userResponse=[3, 4]), UserResponseOneQuestion(questionId=006, userResponse=[1, 3, 4]), UserResponseOneQuestion(questionId=007, userResponse=[1, 3, 4]), UserResponseOneQuestion(questionId=008, userResponse=[1, 4]), UserResponseOneQuestion(questionId=009, userResponse=[1, 3, 4]), UserResponseOneQuestion(questionId=010, userResponse=[1, 4]), UserResponseOneQuestion(questionId=011, userResponse=[throwable]), UserResponseOneQuestion(questionId=012, userResponse=[throwable])])
+
